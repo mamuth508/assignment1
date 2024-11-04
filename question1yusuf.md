@@ -1,4 +1,4 @@
-** Answer: **
+**Answer:**
 
 ```
 my_bool = True
