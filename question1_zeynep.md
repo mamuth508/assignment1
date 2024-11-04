@@ -1,4 +1,3 @@
-  GNU nano 4.8                                          question_zeynep.md                                          Modified
 # _CMBG1 GROUP PROJECT_
 
 ### Studen 1's Answer to Question 1
