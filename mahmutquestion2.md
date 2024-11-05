@@ -7,16 +7,16 @@ Feel free to create a fictional gene sequence by randomly filling in the compone
 
 ```
 promoter = "TAATTTAAAATTATATATAAAT"
-5_prime_UTR = "GGCAAATTTGATCATTAT"
+five_prime_UTR = "GGCAAATTTGATCATTAT"
 start_codon = "ATG"
-1exon = "CTAGGGTTTTAGCGTAAA"
+exon1 = "CTAGGGTTTTAGCGTAAA"
 intron = "GTAGTACCGGGTTAAGGC"
-2exon = "CCAGGTTTTCCCAGGTTCAAGGCT"
+exon2 = "CCAGGTTTTCCCAGGTTCAAGGCT"
 stop_codon = TGA
-3_prime_UTR = "CGATTTAAAAAAGGGCAA"
+three_prime_UTR = "CGATTTAAAAAAGGGCAA"
 
-my_random_gene = promoter + 5_prime_UTR + start_codon + 1exon + \
-                 intron + 2exon + stop_codon + 3_prime_UTR
+my_random_gene = promoter + five_prime_UTR + start_codon + exon1 + \
+                 intron + exon2 + stop_codon + three_prime_UTR
 print("My randomized gene sequence is as follows :")
 print(my_random_gene)
 ```
