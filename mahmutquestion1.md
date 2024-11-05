@@ -1,4 +1,5 @@
-#Mahmut's Answer to Question 1
+# CMB1 Group Project
+## Mahmut's Answer to Question 1
 
 **Q1.** Please assign values to 5 different variables each corresponding to a 
 different basic data type that exist in the python language. Please pay attention
