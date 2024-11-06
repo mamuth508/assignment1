@@ -12,5 +12,5 @@ zeynep_str_variable = 'Gene 3'
 zeynep_bool_variable = True
 zeynep_int_variable = 13
 zeynep_null_variable = None
-zeynep_float_variable = 0,07
+zeynep_float_variable = 0.07
 ```
