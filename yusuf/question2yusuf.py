@@ -9,13 +9,13 @@ Question 2
 """
 
 promoter = "ATTGCTGCGTTTATT"
-5_UTR = "ATCATGCTGATGCAGTGATGCAGTCAGTCGATCGACGTGGCTGTCGATCGAT"
+UTR5 = "ATCATGCTGATGCAGTGATGCAGTCAGTCGATCGACGTGGCTGTCGATCGAT"
 start_codon= "ATG"
 exon1="CCACACACATT"
 intron1="AGGTCTCG"
 stop_codon="TAA"
-3_UTR = "GGGGGGGTGTAGTGATGCTGTGATG"
+UTR3 = "GGGGGGGTGTAGTGATGCTGTGATG"
 terminator= "TTTGAGAGAGGTTTCCTGCGCGTATTATTAA"
 
-print(promoter + 5_UTR + start_codon + exon1 + intron1
-      exon1 + "TTTATA" + stop_codon + 3_UTR + terminator)
+print(promoter + UTR5 + start_codon + exon1 + intron1
+      exon1 + "TTTATA" + stop_codon + UTR3 + terminator)
