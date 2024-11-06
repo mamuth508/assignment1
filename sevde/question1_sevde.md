@@ -10,5 +10,5 @@ sevde_str_variable = 'Tryptophan'
 sevde_int_variable = 220904
 sevde_bool_variable = True
 sevde_null_variable = None
-sevde_float_variable = 0,082
+sevde_float_variable = 0.082
 ```
