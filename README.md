@@ -1,10 +1,8 @@
-# assignment1
-Assignment 1
+# Group Project
 
+## Istanbul University Computing in Molecular Biology and Genetics
 
-# Istanbul University Computing in Molecular Biology and Genetics
-
-## Contributors
+### Contributors
 **mamuth508:** Mahmut Güler
 **jsphu:** Yusuf Ünal
 **sevdesenturkk:** Sevde Şentürk
